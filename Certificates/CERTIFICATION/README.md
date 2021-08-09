@@ -1,4 +1,4 @@
-# CERTIFICAIONS
+# CERTIFICATIONS
 
 * When I got certified in `Tally` from `MPCEI`
 * When I got certified in `Ethical Hacking` from `IIT Bhubaneswar`
