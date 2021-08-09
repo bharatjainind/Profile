@@ -22,7 +22,7 @@ Although I was not like this before, I used to be the kind of person who use to 
 <br>
 
 <p align="center">
-<img src = "REWARDS & RECOGNITION/Inter-Collage Championship.jpg" width = "500">
+<img src = "Inter-Collage Championship.jpg" width = "500">
 </p>
 
 <br>
@@ -35,61 +35,61 @@ Although I was not like this before, I used to be the kind of person who use to 
 
 ## 2. When I secured `1st Place` in a `Ranneeti Competetion` organised on an `Inter-Collage State Level`
 
-<img src = "REWARDS & RECOGNITION/10/Ist in Ranneeti Competetion.jpg" width = "1000">
+<img src = "10/Ist in Ranneeti Competetion.jpg" width = "1000">
 
 <br>
 
 ## 3. When I got `2nd Place` in a `Model Exhibition Competetion` organised on an `Intra-Collage Level`
 
-<img src = "REWARDS & RECOGNITION/09/IInd in Model Competetion.jpg" width = "1000">
+<img src = "09/IInd in Model Competetion.jpg" width = "1000">
 
 <br>
 
 ## 4. When I got `2nd Place` in a `Debate Competetion` organised on an `Inter-Collage Level`
 
-<img src = "REWARDS & RECOGNITION/08/IInd in Debate Competetion.jpg" width = "1000">
+<img src = "08/IInd in Debate Competetion.jpg" width = "1000">
 
 <br>
 
 ## 5. When I got `3rd Place` in the `AdMad Show Competetion` organised on an `Intra-Collage Level`
 
-<img src = "REWARDS & RECOGNITION/07/IIIrd in AdMad Show.jpg" width = "1000">
+<img src = "07/IIIrd in AdMad Show.jpg" width = "1000">
 
 <br>
 
 ## 6. When I got `3rd Place` in the `AdMad Show Competetion` organised on an `Inter-Collage Level`
 
-<img src = "REWARDS & RECOGNITION/06/IIIrd in AdMad Show.jpg" width = "1000">
+<img src = "06/IIIrd in AdMad Show.jpg" width = "1000">
 
 <br>
 
 ## 7. When I became the `Mr. Fresher` of my Collage in `2015`
 
-<img src = "REWARDS & RECOGNITION/05/Mr. Fresher of College (2015-16).jpg" width = "1000">
+<img src = "05/Mr. Fresher of College (2015-16).jpg" width = "1000">
 
 <br>
 
 ## 8. When I got `3rd Place` in a `Debate Competetion` organised on an `Inter-Collage Level`
 
-<img src = "REWARDS & RECOGNITION/04/IIIrd in Vivad Pratiyogita.jpg" width = "1000">
+<img src = "04/IIIrd in Vivad Pratiyogita.jpg" width = "1000">
 
 <br>
 
 ## 9. When I recieved a Certificate of Participation in a Commerce Olympiad Competetion organised by Rotary Club of Kanpur
 
-<img src = "REWARDS & RECOGNITION/03/IIIrd in Commerce Olympiad.jpg" width = "1000">
+<img src = "03/IIIrd in Commerce Olympiad.jpg" width = "1000">
 
 <br>
 
 ## 10. When I got `2nd Place` in a `Debate Competetion` organised on an `Intra-Collage Level`
 
-<img src = "REWARDS & RECOGNITION/02/IInd in Debate Competetion.jpg" width = "1000">
+<img src = "02/IInd in Debate Competetion.jpg" width = "1000">
 
 <br>
 
 ## 11. When I got `2nd Place` in a `Microsoft Office Competetion` organised on a `Regional Level`
 
-<img src = "REWARDS & RECOGNITION/01/IInd in Microsoft Word Competetion.jpg" width = "1000">
+<img src = "01/IInd in Microsoft Word Competetion.jpg" width = "1000">
 
 <br>
 
