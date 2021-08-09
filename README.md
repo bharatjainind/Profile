@@ -21,9 +21,9 @@ Being a Studious Managerial Student familiar with expected technical skills, end
 
 ## SKILLS
 
-`Python` , `SQL` , `JAVA` , `JavaScript` , `HTML` , `JIRA Administration` , `Power BI Reporting` , `Tableau
-Reporting` , `Magento 2.4` <br> `AWS EC2 Administration` , `UML` , `Microsoft Office Suit` , `MS Excel (VBA
-Scripting)` , `SQL Server Management Studio` <br> `SPARK AR Hub` , `Relational Database Management`
+`Python` , `SQL` , `JAVA` , `JavaScript` , `HTML` , `JIRA Administration` , `Power BI Reporting` <br> `Tableau
+Reporting` , `Magento 2.4` , `AWS EC2 Administration` , `UML` , `Microsoft Office Suit` , `MS Excel (VBA
+Scripting)` <br> `SQL Server Management Studio` , `SPARK AR Hub` , `Relational Database Management`
 
 ----
 ### WORK EXPERIENCE
