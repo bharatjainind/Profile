@@ -1,2 +1,2 @@
 # Profile
-Just to know about me a Little Better
+Just to know about me a little Better
