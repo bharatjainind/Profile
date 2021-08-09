@@ -29,7 +29,7 @@ Although I was not like this before, I used to be the kind of person who use to 
 
 ## 1. When I got `2nd Place` in an `Extempore Competetion` organised on an `Intra-Collage Level`
 
-<img src = "REWARDS & RECOGNITION/11/IInd in Extempore Competetion on Environment Day Certificate.jpg" width = "1000">
+<img src = "11/IInd in Extempore Competetion on Environment Day Certificate.jpg" width = "1000">
 
 <br>
 
