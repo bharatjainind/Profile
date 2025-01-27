@@ -1,87 +1,100 @@
-# Bharat Jain
+# **BHARAT JAIN**
 
 <p align = "center">
-<img src = "Profile Pic.jpg" width = "300">
+<img src = "Professional Picture 4K.jpg" width = "300">
 </p>
 
-## My Philosophy
+I am a **Senior Data Analyst** from **India**, with extensive experience in data modeling, data visualization, and process automation. People can reach me at 📧 [bharat.jain.ind@gmail.com](mailto:bharat.jain.ind@gmail.com) or connect with me via mobile at 📱+91 8433261567. Feel free to explore my professional journey on my [LinkedIn Profile](https://www.linkedin.com/in/bharatjainind).
 
-``` “Efficiency shouldn’t be compromised at the cost of Effectiveness” ```
+
+## Philosophy
+
+``` “Efficiency should not be sacrificed in pursuit of effectiveness” ```
+
 
 ## Motive
 <p align = "Justify">
-Being a Studious Managerial Student familiar with expected technical skills, endeavoring to obtain a Data Analyst profile and to utilize my skills in reviewing Business Operations and performances while recommending automated solutions through Analytical reports that can expedite in achieving the company's goals and helps me personally to expand my business acumen.
+As a diligent professional with a blend of managerial expertise and advanced technical skills, I aspire to excel as a Data Scientist followed by an A.I.R. Manager. I aim to leverage my analytical capabilities to optimize business operations, deliver data-driven insights through analytical reports, and recommend automated solutions that align with company goals while enhancing my business acumen.
 </p>
-  
-> Chandausi <br>
-> INDIAN <br>
-> bharat.jain.ind@gmail.com <br>
-> +91 8433261567 <br>
-> https://www.linkedin.com/in/bharatjainind
 
-## SKILLS
 
-`Python` , `SQL` , `JAVA` , `JavaScript` , `HTML` , `JIRA Administration` , `Power BI Reporting` <br> `Tableau
-Reporting` , `Magento 2.4` , `AWS EC2 Administration` , `UML` , `Microsoft Office Suit` <br> `MS Excel (VBA
-Scripting)` , `SQL Server Management Studio` , `SPARK AR Hub` , `Relational Database Management`
+## Technical Skill Set
+
+| **Category**                        | **Tools & Technologies**                                                                                     |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Data Analysis & Manipulation**    | Python (Automation Executable, Pandas, NumPy), MS Excel (Power Query, Pivots, Macros), SQL (Stored Procedures) |
+| **Data Visualization**              | Power BI (DAX, Power Query), Tableau, Google Data Studio (Looker)                                            |
+| **Database Management & ETL**       | Microsoft SQL Server (SSMS), Talend, Alteryx (ETL Tools)                                                     |
+| **Reporting Tools & Automation**    | Power Automate, Power Apps, SAP Analytics Cloud                                                              |
+| **Programming & Scripting**         | VBA Scripting, JavaScript, HTML                                                                              |
+| **Other Familiar Tools**            | GitHub, Notion, Miro, JIRA, AWS (Redshift, Athena, EC2)                                                      |
+| **Other Soft Skills**               | Business Intelligence (BI) strategy development, Basic knowledge of APIs and data integration                |
+
 
 ----
 ### WORK EXPERIENCE
 ----
-## Vanel Sarl
-👔 Co-Project Manager <br>
-⏲ Jan 2021 - Present
+
+## Awesome Analytics, Thane (Mumbai), India
+👔 Data Analyst – Senior Report Developer (RPA) <br>
+⏲ August 2021 – November 2024
 
 ## Key Responsibilities
 
-* Assisting Senior Management with Technical Queries & other Members of the Team with Magento
-Platform Troubleshooting & Technical Understanding
-* JIRA Platform Administration and External Data Cleaning & Processing
-* Weekly Reporting of Financial Performance & Marketing Campaign Analysis
+* Liaise with clients to document requirements & design appropriate scalable solution architectures.
+* Design data flow models & develop dynamic dashboards while addressing client technical queries.
+* Automate data processing pipelines and reporting workflows using Python, ETL tools, & Macros.
+* Independently develop advanced analytics solutions using Power BI, Tableau, and Excel.
+* Lead and mentor team members while coordinating activities across various project pipelines.
+* Estimate project timelines while ensuring adherence through consistent tracking & updates.
 
 ## Key Activities Performed
 
-* Helped in Scraping data & Information from External Sources (Web) to formulate SKU code Structures &
-Product Catalogue Data Structure.
-* Performed Data Cleaning and Data Validation of existing spreadsheets to promote robust data
-management practices.
-* Identified and interpreted trends in their Marketing Performance data sets by finding correlations and
-visualizing with Power BI Reports.
-* Drafted weekly and monthly reports on Companies Marketing Performances & Financial metrics to assess
-account for deficiencies.
-* Helped colleagues to improve their proficiency in Microsoft Excel, including pivot tables and charts,
-sometimes power pivot and moderate formulas meanwhile recommending Power BI reporting Solutions with
-DAX Expressions.
-* Acted as a JIRA administrator (Small Team for 3 Months) by configuring JIRA Platform while integrating
-customized Confluence templates and Created workflow diagrams and Gantt charts to clearly demonstrate
-processes and timelines.
-* Provided conceptual designs & customized recommendations based on business requirements to deliver
-specialized platform extensions and applications according to the specifications from the Company for
-improved usability, performance, and functionality of their website.
+* Researched and resolved issues regarding data flow integrity in databases, ensuring seamless operations and data reliability.
+* Documented detailed business processes & use cases based on comprehensive requirement analysis.
+* Analyzed SAP transactions to build logical business intelligence models for our client’s real-time reporting and auditing needs.
+* Created dynamic Excel-based dashboards and automated reports, saving 20 hours of error-prone manual effort per week for stakeholders.
+* Participated in requirement meetings and data mapping sessions to align analytics deliverables with business objectives.
+* Designed and developed schema data models, tables, and views using SQL to optimize query performance.
+* Evaluated market trends and competitive environments to refine business strategies and improve client positioning.
+* Led the design and implementation of Power BI dashboards, facilitating real-time insights for stakeholders.
 
------
-### EDUCATION
------
+## Key Projects
 
-    Symbiosis Institute of Computer Studies and Research, Pune
-    Masters of Business Administration (MBA - IT) specialised in Data Analysis
-    Jun 2019 - Jul 2021
+#### IB Sales Analysis Report Automation (Abbott): ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [ VBA, Python, Excel ]
+* Developed an end-to-end automation solution for financial reporting using Python, consolidating multiple data sources and complex calculations. Reduced manual reporting effort from 3-4 days to 35 minutes while enabling data-driven decisions through Excel dashboards.
 
-<br>
+#### Financial Analysis– Actual vs Budget (Eurofins): ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [ VBA, Power BI ]
+* Streamlined financial data management by automating the consolidation of inconsistent Excel files, optimizing data for monthly comparative performance analysis, and designing Power BI dashboards with secure cloud-based access to support actionable decision-making.
 
-    Shri Krishna Institute of Mangement and Science
-    Bachelor of Business Administration (BBA - IT)
-    May 2015 - Jun 2018
+#### Automated Filing of Federal Tax Form 5471 (KNAV): ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [ VBA, RPA, Power Automate ]
+* Automated complex tax filing workflow, transforming a 6-hour manual process into a 45-minute execution. Designed customizable calculation templates and implemented a web-based form-filling solution for the "GoSystem" website, ensuring higher accuracy across multiple filings.
 
-<br>
+#### United States Filing Accuracy Validation (KNAV): ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [ VBA, Python, Excel DAX ]
+* Customized a PDF validation automation for multi-state tax filings, batch processing 300+ PDF pages per vendor to verify scattered entries per state. Automated data comparison eliminated the manual verification burden, ensuring accuracy while preventing reviewer fatigue.
 
-    Sir Padampat Singhania Education Centre (SPSEC), Kanpur
-    Apr 2013 - 2015
+#### Business Segment Performance Analysis (K. Nerolac Paints): ~~~~~~~~~~~~~~~~~~~~~~~ [ VBA, Python, SQL, Power BI ]
+* Automated transactional data processing for daily ERP exports, transforming and streaming lakhs of rows into SQL database for comparative business segment analysis. Designed Excel & Power BI dashboards that leverage SQL, Cube Model & DAX for holistic decision-making.
 
-<br>
 
-    RRK Senior Secondary School Chandausi
-    2002 - 2013
+## Vannel Sarl, Brignais, France
+👔 Co-Project Manager – IT (Intern) <br>
+⏲ January 2021 – July 2021
+
+## Key Responsibilities
+
+* Assist senior management with technical queries and team members with Magento troubleshooting & technical understanding.
+* Administer JIRA and process external data for weekly reporting on financial performance.
+* Analyze the performance of the marketing campaign and prepare comprehensive reports at regular intervals.
+
+## Key Activities Performed
+
+* Data scraped from external sources to formulate referenced SKU codes and product catalog data structures. Data was cleaned and validated in spreadsheets to ensure robust data management.
+* Identified and interpreted marketing performance trends by uncovering correlations and presenting insights through Power BI reports.
+* Visualized marketing data trends using Power BI and drafted performance reports.
+* Configured JIRA and integrated customized Confluence templates for workflow management.
+* Developed platform extensions based on business needs to enhance the website’s usability and functionality.
+
 
 ----
 ### CERTIFICATIONS
@@ -113,7 +126,7 @@ improved usability, performance, and functionality of their website.
 * Deviations, Variance, Scatter Diagrams, Data Distributions, Normal Curve
 * Correlation, Simple Regression
 * Multiple Regression, R Square Analysis, Logistic Regression
-* Hypothesis Testing, 1 Sample tests, t-test, z-test
+* Hypothesis Testing, 1 Sample test, t-test, z-test
 * 2 sample tests, Paired sample, Independent Samples
 * Multiple samples, Analysis of variance, 1 factor and 2 factor ANOVA
 
@@ -140,9 +153,9 @@ improved usability, performance, and functionality of their website.
 * Verify at coursera.org/verify/PKJ6DKU77WMU
 * Relate software product management to better software products
 * Recognize the role of a software product manager
-* Reflect on how Agile principles will improve your own projects
+* Reflect on how Agile principles will improve our projects
 
-##### SKILLS Aquired
+##### SKILLS Acquired
 
 * Agile Software Development
 * Software Product Management
@@ -159,9 +172,36 @@ improved usability, performance, and functionality of their website.
 * Query DataFrame structures for cleaning and processing
 * Learnt distributions, sampling, and t-tests
 
-#### SKILLS Aquired
+#### SKILLS Acquired
 
 * Python Programming
 * Numpy
 * Pandas
 * Data Cleansing
+
+
+-----
+### EDUCATION
+-----
+
+    Symbiosis Institute of Computer Studies and Research, Pune
+    Masters of Business Administration (MBA - IT) specializing in Data Analysis
+    Jun 2019 - Jul 2021 [2 Years]
+
+<br>
+
+    Shri Krishna Institute of Management and Science
+    Bachelor of Business Administration (BBA - IT)
+    May 2015 - Jun 2018 [3 Years]
+
+<br>
+
+    Sir Padampat Singhania Education Centre (SPSEC), Kanpur
+    Higher Secondary Classes (Commerce with Information Technology) specializing in Entrepreneurship
+    Apr 2013 - Mar 2015 [2 Years]
+
+<br>
+
+    RRK Senior Secondary School Chandausi
+    Intermediate Classes
+    Apr 2011 - Mar 2013 [>2 Years]
