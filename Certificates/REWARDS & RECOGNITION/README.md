@@ -1,96 +1,68 @@
-# HALL OF FAME
+# 🏅 Hall of Fame
 
-I am the guy who believes in Participating and Performing in every possible Opportunity whether I’ll get recognized for it or not (However, like every other Homo Sapien, I also like it when anyone recognizes me for what I have achieved as it boosts my will to perform much better). I always try to participate in any kind of event or opportunity I get either to showcase my potential or sometimes to test my Potential. In any way, Whenever the words of any event reach my Ears, It becomes difficult for me to neutralize my urge to participate in that event.
+I have always believed in participating and performing in every possible opportunity—whether I receive recognition or not. However, like any other human, I do appreciate when my efforts are acknowledged, as it fuels my motivation to push even further. For me, every event is either a chance to showcase my potential or to test my limits. Whenever I hear about an opportunity, resisting the urge to participate becomes nearly impossible.
 
-Although I was not like this before, I used to be the kind of person who use to wait for the next opportunity to come so that I can learn from others attempts but all of this has changed when I got the opportunity to study at Sir Padampat Singhania Education Center, Kanpur. My relocation to Kanpur for studies where no one can judge me for my past experiences gave me immense confidence and freedom to try out new opportunities which I used to neglect in my Home Town. This new confidence motivated me to become a better version of myself that helped me to collect all the Below Mentioned tokens of Achievements.
+This mindset, however, was not always a part of me. I used to wait for others to take the first step, observing and learning before making my move. Everything changed when I joined **Sir Padampat Singhania Education Center, Kanpur**. Relocating to a new city where I was free from past judgments gave me the confidence to step out of my comfort zone. This fresh start allowed me to embrace new challenges, shaping me into a more ambitious version of myself. The following achievements are a testament to that journey.
 
-<br>
+---
 
-* When I got `2nd Place` in an `Extempore Competetion` organised on an `Intra-Collage Level`
-* When I secured `1st Place` in a `Ranneeti Competetion` organised on an `Inter-Collage State Level`
-* When I got `2nd Place` in a `Model Exhibition Competetion` organised on an `Intra-Collage Level`
-* When I got `2nd Place` in a `Debate Competetion` organised on an `Inter-Collage Level`
-* When I got `3rd Place` in the `AdMad Show Competetion` organised on an `Intra-Collage Level`
-* When I got `3rd Place` in the `AdMad Show Competetion` organised on an `Inter-Collage Level`
-* When I became the `Mr. Fresher` of my Collage in `2015`
-* When I got `3rd Place` in a `Debate Competetion` organised on an `Inter-Collage Level`
-* When I recieved a Certificate of Participation in a Commerce Olympiad Competetion organised by Rotary Club of Kanpur
-* When I got `2nd Place` in a `Debate Competetion` organised on an `Intra-Collage Level`
-* When I got `2nd Place` in a `Microsoft Office Competetion` organised on a `Regional Level`
+## 🏆 Notable Achievements
 
-<br>
-<br>
+- **2nd Place** in an **Extempore Competition** (Intra-College Level)
+- **1st Place** in a **Ranneeti Competition** (Inter-College State Level)
+- **2nd Place** in a **Model Exhibition Competition** (Intra-College Level)
+- **2nd Place** in a **Debate Competition** (Inter-College Level)
+- **3rd Place** in the **AdMad Show Competition** (Intra-College Level)
+- **3rd Place** in the **AdMad Show Competition** (Inter-College Level)
+- **Awarded Mr. Fresher** of my College (2015)
+- **3rd Place** in a **Debate Competition** (Inter-College Level)
+- **Certificate of Participation** in a **Commerce Olympiad** (Rotary Club of Kanpur)
+- **2nd Place** in a **Debate Competition** (Intra-College Level)
+- **2nd Place** in a **Microsoft Office Competition** (Regional Level)
+
+---
 
 <p align="center">
-<img src = "Inter-Collage Championship.jpg" width = "500">
+<img src="Inter-Collage Championship.jpg" width="500">
 </p>
 
-<br>
+---
 
-## 1. When I got `2nd Place` in an `Extempore Competetion` organised on an `Intra-Collage Level`
+### 📜 Certificates Gallery
 
-<img src = "11/IInd in Extempore Competetion on Environment Day Certificate.jpg" width = "1000">
+#### 🥈 2nd Place - Extempore Competition (Intra-College Level)
+<img src="11/IInd in Extempore Competetion on Environment Day Certificate.jpg" width="1000">
 
-<br>
+#### 🥇 1st Place - Ranneeti Competition (Inter-College State Level)
+<img src="10/Ist in Ranneeti Competetion.jpg" width="1000">
 
-## 2. When I secured `1st Place` in a `Ranneeti Competetion` organised on an `Inter-Collage State Level`
+#### 🥈 2nd Place - Model Exhibition Competition (Intra-College Level)
+<img src="09/IInd in Model Competetion.jpg" width="1000">
 
-<img src = "10/Ist in Ranneeti Competetion.jpg" width = "1000">
+#### 🥈 2nd Place - Debate Competition (Inter-College Level)
+<img src="08/IInd in Debate Competetion.jpg" width="1000">
 
-<br>
+#### 🥉 3rd Place - AdMad Show Competition (Intra-College Level)
+<img src="07/IIIrd in AdMad Show.jpg" width="1000">
 
-## 3. When I got `2nd Place` in a `Model Exhibition Competetion` organised on an `Intra-Collage Level`
+#### 🥉 3rd Place - AdMad Show Competition (Inter-College Level)
+<img src="06/IIIrd in AdMad Show.jpg" width="1000">
 
-<img src = "09/IInd in Model Competetion.jpg" width = "1000">
+#### 🏆 Mr. Fresher - College (2015)
+<img src="05/Mr. Fresher of College (2015-16).jpg" width="1000">
 
-<br>
+#### 🥉 3rd Place - Debate Competition (Inter-College Level)
+<img src="04/IIIrd in Vivad Pratiyogita.jpg" width="1000">
 
-## 4. When I got `2nd Place` in a `Debate Competetion` organised on an `Inter-Collage Level`
+#### 🎖️ Certificate of Participation - Commerce Olympiad (Rotary Club of Kanpur)
+<img src="03/IIIrd in Commerce Olympiad.jpg" width="1000">
 
-<img src = "08/IInd in Debate Competetion.jpg" width = "1000">
+#### 🥈 2nd Place - Debate Competition (Intra-College Level)
+<img src="02/IInd in Debate Competetion.jpg" width="1000">
 
-<br>
+#### 🥈 2nd Place - Microsoft Office Competition (Regional Level)
+<img src="01/IInd in Microsoft Word Competetion.jpg" width="1000">
 
-## 5. When I got `3rd Place` in the `AdMad Show Competetion` organised on an `Intra-Collage Level`
+---
 
-<img src = "07/IIIrd in AdMad Show.jpg" width = "1000">
-
-<br>
-
-## 6. When I got `3rd Place` in the `AdMad Show Competetion` organised on an `Inter-Collage Level`
-
-<img src = "06/IIIrd in AdMad Show.jpg" width = "1000">
-
-<br>
-
-## 7. When I became the `Mr. Fresher` of my Collage in `2015`
-
-<img src = "05/Mr. Fresher of College (2015-16).jpg" width = "1000">
-
-<br>
-
-## 8. When I got `3rd Place` in a `Debate Competetion` organised on an `Inter-Collage Level`
-
-<img src = "04/IIIrd in Vivad Pratiyogita.jpg" width = "1000">
-
-<br>
-
-## 9. When I recieved a Certificate of Participation in a Commerce Olympiad Competetion organised by Rotary Club of Kanpur
-
-<img src = "03/IIIrd in Commerce Olympiad.jpg" width = "1000">
-
-<br>
-
-## 10. When I got `2nd Place` in a `Debate Competetion` organised on an `Intra-Collage Level`
-
-<img src = "02/IInd in Debate Competetion.jpg" width = "1000">
-
-<br>
-
-## 11. When I got `2nd Place` in a `Microsoft Office Competetion` organised on a `Regional Level`
-
-<img src = "01/IInd in Microsoft Word Competetion.jpg" width = "1000">
-
-<br>
-
-* *All the above mentioned images are the **scanned copies** of the real Physical Certificates possesed by me*
+*All the above-mentioned images are scanned copies of the original physical certificates in my possession.*
