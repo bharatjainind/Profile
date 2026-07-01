@@ -8,6 +8,7 @@ This mindset, however, was not always a part of me. I used to wait for others to
 
 ## 🏆 Notable Achievements
 
+- **Recognised as Transformers** with in **AR & GA Dept. in Metro GSC** (2026)
 - **2nd Place** in an **Extempore Competition** (Intra-College Level)
 - **1st Place** in a **Ranneeti Competition** (Inter-College State Level)
 - **2nd Place** in a **Model Exhibition Competition** (Intra-College Level)
@@ -29,6 +30,9 @@ This mindset, however, was not always a part of me. I used to wait for others to
 ---
 
 ### 📜 Certificates Gallery
+
+#### 🥈 Transformers - Certificate of Appreciation (METRO Global Solution Center)
+<img src="12/Transformers - Certificate of Appreciation.png" width="1000">
 
 #### 🥈 2nd Place - Extempore Competition (Intra-College Level)
 <img src="11/IInd in Extempore Competetion on Environment Day Certificate.jpg" width="1000">
